@@ -1,0 +1,24 @@
+[
+    {
+      "role": "Data entry assistant",
+      "organisation": "NACADA",
+      "startDate": "October, 2023",
+      "endDate": "November, 2023",
+      "experiences": 
+        ["Keying in data on the status of drugs and substance abuse among university students in Kenya.",
+         "Gained technical proficiency by using google forms as the data entry software , attention to detail, data integrity when dealing with sensitive data and team work."
+        ],
+      "imageSrc": "history/nacada.jpeg"
+    },
+    {
+      "role": "Internal Attachment",
+      "organisation": "Dedan Kimathi University of Technology",
+      "startDate": "February, 2023",
+      "endDate": "April, 2023",
+      "experiences": 
+        ["Learned Network management using CISCO, software development including documentation and computer hardware", 
+        "Gained skills on project management, collaboration when working with a team and hardware components that make up a computer"
+        ],
+      "imageSrc": "history/dekut.jpeg"
+    }
+  ]
