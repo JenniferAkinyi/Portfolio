@@ -16,11 +16,15 @@
       "imageSrc": "skills/javascript.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "title": "Express",
+      "imageSrc": "skills/express.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/postgresql.png"
     }
   ]

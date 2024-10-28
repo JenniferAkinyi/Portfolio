@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
+      "title": "African Culture",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This discusses the mode of life in teh african culture.",
+      "skills": ["Video", "Word Doc."],
+      "demo": "https://drive.google.com/drive/folders/15zjLX6D1ZZZCSwh_jlYBmxwrwHKcxP70?usp=drive_link",
+      "source": "https://drive.google.com/file/d/10ynVNj2snoybnZzdwhlQtxVwkH4E04s8/view?usp=drive_link"
     },
     {
-      "title": "Project B",
+      "title": "Modern Society",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This discusses the modern society and its challenges.",
+      "skills": ["Video", "Word Doc."],
+      "demo": "https://drive.google.com/drive/folders/1GR7lcGd7mHPqak7Q1w10SD16GbCCDC3R?usp=drive_link",
+      "source": "https://drive.google.com/file/d/1u8Fa9Aksr9OuaTCjx2hpg-WpBqmIAMj-/view?usp=drive_link"
     },
     {
-      "title": "Project C",
+      "title": "Innovations in CS",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This discusses innovation is computer science.",
+      "skills": ["Video", "Word Doc."],
+      "demo": "https://drive.google.com/drive/folders/1-sY3awuS3RWqSHal4aYrUXBoSW3P3ELN?usp=drive_link",
+      "source": "https://drive.google.com/file/d/1FZNGaOb2jtq35EjNZIJ3OFWaC5uvsCj4/view?usp=drive_link"
     }
   ]
